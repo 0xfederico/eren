@@ -1,6 +1,6 @@
 # Eren
 
-This script is a pen knife for enumerating and recognizing vulnerabilities.
+This script is a Swiss army knife for enumerating and recognizing vulnerabilities.
 
 <br>
 
